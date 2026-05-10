@@ -506,4 +506,4 @@ def extra_menu():
             elif selected[2]:
                 run_script(selected[2])
             else:
-                console.print("[red]No sc
+                console.print("[red]No sc")
